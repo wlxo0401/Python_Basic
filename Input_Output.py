@@ -108,10 +108,13 @@
 
 # format함수를 활용하여 출력하세요.
 
-a = eval(input('입력해주세요 : '))
-b = eval(input('입력해주세요 : '))
+# a = eval(input('입력해주세요 : '))
+# b = eval(input('입력해주세요 : '))
 
-print('{0}+{1}={2}'.format(a, b, a+b))
+# print('{0}+{1}={2}'.format(a, b, a+b))
+
+
+# format함수를 활용하여, 우측정렬시키세요.
 
 
 
